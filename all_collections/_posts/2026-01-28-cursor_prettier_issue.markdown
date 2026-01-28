@@ -3,6 +3,7 @@ layout: post
 title: "cursor 업데이트 후 prettier 동작 이슈 관련 해결법"
 date: 2026-01-28 09:50:00 +0100
 categories: ["tips", "cursor", "prettier"]
+published: true
 ---
 
 cursor의 특정 버전 업데이트 이후 갑자기 멀쩡히 사용하던 prettier 가 동작하지 않음을 확인했다.(v2.3.41)
