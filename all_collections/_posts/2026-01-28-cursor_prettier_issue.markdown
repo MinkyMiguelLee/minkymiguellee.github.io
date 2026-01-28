@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "git commit - 파일명 대소문자 변경 미인식 이슈 해결법"
+title: "cursor 업데이트 후 prettier 동작 이슈 관련 해결법"
 date: 2026-01-28 09:30:00 +0100
 categories: ["tips", "cursor", "prettier"]
 ---
