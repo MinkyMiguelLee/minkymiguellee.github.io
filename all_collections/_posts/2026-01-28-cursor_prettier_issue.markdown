@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "cursor 업데이트 후 prettier 동작 이슈 관련 해결법"
-date: 2026-01-28 09:30:00 +0100
+date: 2026-01-28 09:50:00 +0100
 categories: ["tips", "cursor", "prettier"]
 ---
 
